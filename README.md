@@ -13,6 +13,7 @@ The project was created in NMCNPM course, FIT, HCMUS, VN.
 - Control your tank avoid orther invisible tanks to maintain the game.
 - Shoot and collect bullets (have many bullet types) to shootalbe.
 - You will lose when you collision the invisible tanks or empty bullets.
+- Use radar scaner to visit the invisible tanks when it countdown ended.
 ```
 
 ## More info
